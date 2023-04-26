@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    background: #1c1b21;
+    color: #fafafa;
+    font-size: 55px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.container {
+    border: 10px solid #6c38cc;
+    display: flex;
+    height: 100vh;
+    width: 300vw;
+    /* flex-flow: column wrap; */
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    align-items: center;
+    justify-content: space-around;
+}
+.item {
+    background: #232228;
+    border: 1px solid #6c38cc;
+    text-align: center;
+    padding: 10px;
+    width: calc(100%/10);
+    height: 300px;
+}
+.cont1 {
+    order: 1;
+}
+.cont2 {
+    order: 3;
+}
+.cont3 {
+    order: 4;
+}
+.cont4 {
+    order: 2;
+}
+.cont5 {
+    order: 5;
+}
+.cont6 {
+    order: 6;
+}
+.cont7 {
+    order: 7;
+}
+.cont8 {
+    order: 8;
+}
+.cont9 {
+    order: 9;
+}
+.item1 {
+    background: #c7c0c0 url(./img/Ashley.jpg);
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    height: 80%;
+}
+.item2 {
+    background: #c7c0c0 url(./img/AugustaLuise.jpg);
+    background-size: contain;
+    height: 80%;
+}
+.item3 {
+    background: #c7c0c0 url(./img/LaurentCabrol.jpg);
+    background-size: contain;
+    height: 80%;
+}
+.item4 {
+    background: #c7c0c0 url(./img/AugustaLuise.jpg);
+    background-size: contain;
+    height: 80%;
+}
+.item5 {
+    background: #c7c0c0 url(./img/Boscobel.jpg);
+    background-size: contain;
+    height: 80%;
+}
+.item6 {
+    background: #c7c0c0 url(./img/Miyabi.jpg);
+    background-size: contain;
+    height: 80%;
+}
+.item7 {
+    background: #c7c0c0 url(./img/Chippendale.jpg);
+    background-size: contain;
+    height: 80%;
+}
+.item8 {
+    background: #c7c0c0 url(./img/RosomaneJanon.jpg);
+    background-size: contain;
+    height: 80%;
+}
+.item9 {
+    background: #c7c0c0 url(./img/GloriaDei.jpg);
+    background-size: contain;
+    height: 80%;
+}
+/* .item0 {
+    /* background: #c7c0c0 url(./img/GloriaDei.jpg);
+    background-size: contain;
+    order: 20;
+} 
+*/
+.text {
+    font-size: 14px;
+}
