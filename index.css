@@ -19,7 +19,7 @@ body {
     border: 10px solid #6c38cc;
     display: flex;
     height: 80%;
-    width: 100vw;
+    width: 300vw;
     /* flex-flow: column wrap; */
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
