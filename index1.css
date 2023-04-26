@@ -78,41 +78,35 @@ body {
     height: 80%;
 }
 .item4 {
-    background: #c7c0c0 url(./img/AugustaLuise.jpg);
+    background: #c7c0c0 url(./img/JubileMonaco.jpg);
     background-size: contain;
     height: 80%;
 }
 .item5 {
-    background: #c7c0c0 url(./img/Boscobel.jpg);
+    background: #c7c0c0 url(./img/DoubleDelight.jpg);
     background-size: contain;
     height: 80%;
 }
 .item6 {
-    background: #c7c0c0 url(./img/Miyabi.jpg);
+    background: #c7c0c0 url(./img/Schneewittchen.jpg);
     background-size: contain;
     height: 80%;
 }
 .item7 {
-    background: #c7c0c0 url(./img/Chippendale.jpg);
+    background: #c7c0c0 url(./img/Luxor.jpg);
     background-size: contain;
     height: 80%;
 }
 .item8 {
-    background: #c7c0c0 url(./img/RosomaneJanon.jpg);
+    background: #c7c0c0 url(./img/EricTabarly.jpg);
     background-size: contain;
     height: 80%;
 }
 .item9 {
-    background: #c7c0c0 url(./img/GloriaDei.jpg);
+    background: #c7c0c0 url(./img/LeonardoVinci.jpg);
     background-size: contain;
     height: 80%;
 }
-/* .item0 {
-    /* background: #c7c0c0 url(./img/GloriaDei.jpg);
-    background-size: contain;
-    order: 20;
-} 
-*/
 .text {
     font-size: 14px;
 }

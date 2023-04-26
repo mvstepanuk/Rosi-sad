@@ -32,7 +32,7 @@ body {
     text-align: center;
     padding: 10px;
     width: calc(100%/10);
-    height: 300px;
+    height: 400px;
 }
 .cont1 {
     order: 1;
@@ -90,7 +90,7 @@ body {
 .item6 {
     background: #c7c0c0 url(./img/Miyabi.jpg);
     background-size: contain;
-    height: 70%;
+    height: 80%;
 }
 .item7 {
     background: #c7c0c0 url(./img/Chippendale.jpg);
