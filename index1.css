@@ -19,7 +19,7 @@ body {
     border: 10px solid #6c38cc;
     display: flex;
     height: 80%;
-    width: 100vw;
+    width: 300vw;
     /* flex-flow: column wrap; */
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
@@ -38,13 +38,13 @@ body {
     order: 1;
 }
 .cont2 {
-    order: 3;
+    order: 2;
 }
 .cont3 {
-    order: 4;
+    order: 3;
 }
 .cont4 {
-    order: 2;
+    order: 4;
 }
 .cont5 {
     order: 5;
@@ -62,18 +62,18 @@ body {
     order: 9;
 }
 .item1 {
-    background: #c7c0c0 url(./img/Ashley.jpg);
+    background: #c7c0c0 url(./img/PrincAlexKent.jpg);
     background-size: contain;
     /* background-repeat: no-repeat; */
     height: 80%;
 }
 .item2 {
-    background: #c7c0c0 url(./img/AugustaLuise.jpg);
+    background: #c7c0c0 url(./img/RosyDawn.jpg);
     background-size: contain;
     height: 80%;
 }
 .item3 {
-    background: #c7c0c0 url(./img/LaurentCabrol.jpg);
+    background: #c7c0c0 url(./img/CyclamenPerde1.jpg);
     background-size: contain;
     height: 80%;
 }
@@ -90,7 +90,7 @@ body {
 .item6 {
     background: #c7c0c0 url(./img/Miyabi.jpg);
     background-size: contain;
-    height: 70%;
+    height: 80%;
 }
 .item7 {
     background: #c7c0c0 url(./img/Chippendale.jpg);
