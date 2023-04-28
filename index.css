@@ -5,7 +5,7 @@
 body {
     background: #1c1b21;
     color: #fafafa;
-    font-size: 55px;
+    font-size: 25px;
     font-family: 'Fira Sans', sans-serif;
 }
 .pages {
@@ -19,7 +19,7 @@ body {
     border: 10px solid #6c38cc;
     display: flex;
     height: 80%;
-    width: 300vw;
+    width: 100vw;
     /* flex-flow: column wrap; */
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
@@ -32,34 +32,34 @@ body {
     text-align: center;
     padding: 10px;
     width: calc(100%/10);
-    height: 400px;
+    height: 500px;
 }
 .cont1 {
-    order: 1;
+    order: 9;
 }
 .cont2 {
-    order: 3;
+    order: 7;
 }
 .cont3 {
-    order: 4;
+    order: 6;
 }
 .cont4 {
-    order: 2;
+    order: 8;
 }
 .cont5 {
     order: 5;
 }
 .cont6 {
-    order: 6;
+    order: 4;
 }
 .cont7 {
-    order: 7;
+    order: 3;
 }
 .cont8 {
-    order: 8;
+    order: 2;
 }
 .cont9 {
-    order: 9;
+    order: 1;
 }
 .item1 {
     background: #c7c0c0 url(./img/Ashley.jpg);

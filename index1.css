@@ -5,7 +5,7 @@
 body {
     background: #1c1b21;
     color: #fafafa;
-    font-size: 55px;
+    font-size: 25px;
     font-family: 'Fira Sans', sans-serif;
 }
 .pages {
@@ -19,7 +19,7 @@ body {
     border: 10px solid #6c38cc;
     display: flex;
     height: 80%;
-    width: 300vw;
+    width: 100vw;
     /* flex-flow: column wrap; */
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
@@ -32,7 +32,7 @@ body {
     text-align: center;
     padding: 10px;
     width: calc(100%/10);
-    height: 400px;
+    height: 500px;
 }
 .cont1 {
     order: 1;
@@ -47,10 +47,10 @@ body {
     order: 4;
 }
 .cont5 {
-    order: 5;
+    order: 6;
 }
 .cont6 {
-    order: 6;
+    order: 5;
 }
 .cont7 {
     order: 7;
