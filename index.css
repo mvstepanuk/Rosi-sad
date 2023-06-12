@@ -1,111 +1,111 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
+  box-sizing: border-box;
+  margin: 0;
 }
 body {
-    background: #1c1b21;
-    color: #fafafa;
-    font-size: 25px;
-    font-family: 'Fira Sans', sans-serif;
+  background: #1c1b21;
+  color: #fafafa;
+  font-size: 25px;
+  font-family: "Fira Sans", sans-serif;
 }
 .pages {
-    display: flex;
-    justify-content: space-between;
-    border: 10px solid #6c38cc;
-    height: 20%;
-    width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  border: 10px solid #6c38cc;
+  height: 20%;
+  width: 100vw;
 }
 .container {
-    border: 10px solid #6c38cc;
-    display: flex;
-    height: 80%;
-    width: 100vw;
-    /* flex-flow: column wrap; */
-    /* flex-direction: row; */
-    /* flex-wrap: wrap; */
-    align-items: center;
-    justify-content: space-around;
+  border: 10px solid #6c38cc;
+  display: flex;
+  height: 80%;
+  width: 100vw;
+  /* flex-flow: column wrap; */
+  /* flex-direction: row; */
+  /* flex-wrap: wrap; */
+  align-items: center;
+  justify-content: space-around;
 }
 .item {
-    background: #232228;
-    border: 1px solid #6c38cc;
-    text-align: center;
-    padding: 10px;
-    width: calc(100%/10);
-    height: 500px;
+  background: #232228;
+  border: 1px solid #6c38cc;
+  text-align: center;
+  padding: 10px;
+  width: calc(100% / 10);
+  height: 500px;
 }
 .cont1 {
-    order: 9;
+  order: 9;
 }
 .cont2 {
-    order: 7;
+  order: 7;
 }
 .cont3 {
-    order: 6;
+  order: 6;
 }
 .cont4 {
-    order: 8;
+  order: 8;
 }
 .cont5 {
-    order: 5;
+  order: 5;
 }
 .cont6 {
-    order: 4;
+  order: 4;
 }
 .cont7 {
-    order: 3;
+  order: 3;
 }
 .cont8 {
-    order: 2;
+  order: 2;
 }
 .cont9 {
-    order: 1;
+  order: 1;
 }
 .item1 {
-    background: #c7c0c0 url(./img/Ashley.jpg);
-    background-size: contain;
-    /* background-repeat: no-repeat; */
-    height: 80%;
+  background: #c7c0c0 url(./img/Ashley.jpg);
+  background-size: contain;
+  /* background-repeat: no-repeat; */
+  height: 80%;
 }
 .item2 {
-    background: #c7c0c0 url(./img/AugustaLuise.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/AugustaLuise.jpg);
+  background-size: contain;
+  height: 80%;
 }
 .item3 {
-    background: #c7c0c0 url(./img/LaurentCabrol.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/LaurentCabrol.jpg);
+  background-size: contain;
+  height: 80%;
 }
 .item4 {
-    background: #c7c0c0 url(./img/AugustaLuise.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/PrincAlexKent.jpg);
+  background-size: contain;
+  height: 80%;
 }
 .item5 {
-    background: #c7c0c0 url(./img/Boscobel.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/Boscobel.jpg);
+  background-size: contain;
+  height: 80%;
 }
 .item6 {
-    background: #c7c0c0 url(./img/Miyabi.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/Miyabi.jpg);
+  background-size: contain;
+  height: 80%;
 }
 .item7 {
-    background: #c7c0c0 url(./img/Chippendale.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/Chippendale.jpg);
+  background-size: contain;
+  height: 80%;
 }
 .item8 {
-    background: #c7c0c0 url(./img/RosomaneJanon.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/RosomaneJanon.jpg);
+  background-size: contain;
+  height: 80%;
 }
 .item9 {
-    background: #c7c0c0 url(./img/GloriaDei.jpg);
-    background-size: contain;
-    height: 80%;
+  background: #c7c0c0 url(./img/GloriaDei.jpg);
+  background-size: contain;
+  height: 80%;
 }
 /* .item0 {
     /* background: #c7c0c0 url(./img/GloriaDei.jpg);
@@ -114,5 +114,5 @@ body {
 } 
 */
 .text {
-    font-size: 14px;
+  font-size: 14px;
 }
